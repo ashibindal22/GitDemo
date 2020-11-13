@@ -1,2 +1,2 @@
-This is a user in Admin
+This is Manual user in Admin
 
